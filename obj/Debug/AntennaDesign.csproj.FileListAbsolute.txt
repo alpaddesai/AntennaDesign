@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\bin\Debug\AntennaDesign.exe.config
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\bin\Debug\AntennaDesign.exe
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\bin\Debug\AntennaDesign.pdb
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign_MarkupCompile.cache
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign_MarkupCompile.lref
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign.g.resources
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign.Properties.Resources.resources
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign.exe
+C:\Users\ADG\source\repos\AntennaDesign\AntennaDesign\obj\Debug\AntennaDesign.pdb
