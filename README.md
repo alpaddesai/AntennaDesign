@@ -6,12 +6,12 @@ All images are either custom by Alpa D Desai.
 
 ![image](AntennaDesign.png)
 
-![image](RF_Fundamentals.png)
-
-
 ## Antenna Design 
 ![image](Antenna.jpg)
 ![image](Antenna1.jpg)
 ![image](Antenna2.jpg)
+![image](dipole.png)
+
+![image](RF_Fundamentals.png)
 
 Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
