@@ -15,7 +15,7 @@ All images are either custom by Alpa D Desai.
 ## Dipole Antenna
 ![image](dipole.png)
 ![image](dipole_antenna.jpg)
-![image](dipole_antenna2.png)
+![image](dipole_antenna2.jpg)
 
 ## Circular Patch Antenna
 ### Antenna Magus
