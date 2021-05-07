@@ -8,9 +8,15 @@ All images are either custom by Alpa D Desai.
 
 ## Antenna Design 
 ![image](Antenna.jpg)
+
+## Patch Antenna
 ![image](Antenna1.jpg)
 ![image](Antenna2.jpg)
+
+## Dipole Antenna
 ![image](dipole.png)
+
+## Circular Patch Antenna
 ![image](Comparison_circular_patch_antenna.png)
 
 ![image](RF_Fundamentals.png)
