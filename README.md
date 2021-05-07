@@ -16,6 +16,7 @@ All images are either custom by Alpa D Desai.
 ![image](dipole.png)
 
 ## Circular Patch Antenna
+### Antenna Magus
 ![image](Comparison_circular_patch_antenna.png)
 
 ![image](RF_Fundamentals.png)
