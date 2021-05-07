@@ -11,6 +11,7 @@ All images are either custom by Alpa D Desai.
 ![image](Antenna1.jpg)
 ![image](Antenna2.jpg)
 ![image](dipole.png)
+![image](Comparison_circular_patch_antenna.png)
 
 ![image](RF_Fundamentals.png)
 
