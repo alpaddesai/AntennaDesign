@@ -21,9 +21,12 @@ All images are either custom by Alpa D Desai.
 ### Antenna Magus
 ![image](Comparison_circular_patch_antenna.png)
 
-![image](RF_Fundamentals.png)
-
 ## 5G Antenna Design
 ![image](AntennaDesign_5G.jpg)
+
+## RF Fundamentals
+![image](RF_Fundamentals.png)
+
+
 
 Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
