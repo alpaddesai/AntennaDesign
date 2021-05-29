@@ -23,4 +23,7 @@ All images are either custom by Alpa D Desai.
 
 ![image](RF_Fundamentals.png)
 
+## 5G Antenna Design
+![image](AntennaDesign_5G.jpg)
+
 Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
