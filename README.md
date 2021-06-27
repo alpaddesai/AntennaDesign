@@ -24,6 +24,9 @@ All images are either custom by Alpa D Desai.
 ## 5G Antenna Design
 ![image](AntennaDesign_5G.jpg)
 
+## Energy Harvesting
+![image](EnergyHarvesting.png)
+
 ## RF Fundamentals
 ![image](RF_Fundamentals.png)
 
