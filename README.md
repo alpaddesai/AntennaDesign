@@ -32,4 +32,4 @@ All images are either custom by Alpa D Desai.
 
 
 
-Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
+Addiitional reference: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
