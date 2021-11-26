@@ -30,6 +30,4 @@ All images are either custom by Alpa D Desai.
 ## RF Fundamentals
 ![image](RF_Fundamentals.png)
 
-
-
-Addiitional reference: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
+Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
