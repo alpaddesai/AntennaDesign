@@ -32,4 +32,6 @@ All images are either custom by Alpa D Desai.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
