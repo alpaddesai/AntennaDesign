@@ -34,4 +34,4 @@ All images are either custom by Alpa D Desai.
 
 ![image](Ethics.jpg)
 
-Addiitional reference: https://github.com/alpaddesai/SmartGridDesignIdea
+Addiitional reference: https://github.com/alpaddesai/ArchitecturalProductDesign
